@@ -1,0 +1,18 @@
+{
+  "name": "examplejsondata",
+  "version": "1.0.0",
+  "description": "This is server which reponds the json data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Vignesh V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
